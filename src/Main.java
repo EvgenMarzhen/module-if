@@ -8,5 +8,7 @@ public class Main {
         System.out.println(TestIf.sum3(3, -3, 0));
         System.out.println(TestIf.sum2(-3, 11));
         System.out.println(TestIf.is35(5));
+        System.out.println(TestIf.magic6(1, 6));
+        System.out.println(TestIf.age(61135));
     }
 }
